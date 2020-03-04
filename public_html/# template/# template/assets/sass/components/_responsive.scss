@@ -1,0 +1,29 @@
+// 1.Full HD
+@media screen and (max-width: 1500px){
+	@import "Responsive/fullHd";
+}
+// 2.Desktop
+
+	@import "Responsive/desktop";
+
+// 3.Max Desktop
+@media screen and (max-width: 1024px){
+	@import "Responsive/maxDesktop";
+}
+
+// 4.tablet
+
+	@import "Responsive/tablet";
+
+// 5.max tablet
+@media screen and (max-width: 767px){
+	@import "Responsive/maxtable";
+}
+// 6.smallMobile
+
+	@import "Responsive/smallMobile";
+
+// 7.Max Mobile
+@media screen and (max-width: 468px){
+	@import "Responsive/maxmobile";
+}

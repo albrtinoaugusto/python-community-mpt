@@ -1,0 +1,164 @@
+// Blog
+
+.blog-slider{
+	.blog-post-item{
+		.blog-post-content{
+			left: 60px;
+			right: 60px;
+		}
+	}
+}
+
+// Slider Product
+.related-products{
+	.product-details{
+		padding:60px 80px;
+	}
+}
+//News letter
+.newsletter{
+	margin-bottom:75px;
+	.col-md-5{
+		.col-md-6{
+			&:first-child{
+				.border-free-shipping{
+					padding: 40px 40px 42px;
+				}
+			}
+		}
+	}
+}
+// Images zoom
+.product-details-content{
+	.box-details-info{
+		padding:20px 40px 0;
+	}
+	.options{
+		padding:60px 40px 120px;
+		.action{
+			padding:60px 0;
+		}
+		.social{
+			a{
+				height: 70px;
+				line-height: 70px;
+			}
+		}
+	}
+	.infomation p{
+		line-height: 34px;
+	}
+}
+.breadcrumb{
+	margin-bottom:40px;
+}
+.mockup .col-md-6 .wrap-text .text{
+	padding:0 80px;
+}
+.wrap-googlemap{
+	.col-md-6{
+		&:nth-child(2n+1){
+			padding-right:15px;
+		}
+		&:nth-child(2n){
+			padding-left:15px;
+		}
+	}
+}
+.gild.ver4{
+	.col-md-6.left{
+		clear: left;
+	}
+}
+	.thu {
+		.blog-beauty.post-item.ver2{
+		display: none;
+		}
+		.post-item .tag .lable{
+			padding-top: 15px;
+		}
+}
+@media screen and (max-width: 1440px) {
+	.full-home2 .col-lg-2{
+		width: 33.333%;
+	 	padding: 5px 15px;
+		&:nth-child(6n+4){
+			clear: left;
+}
+	}
+}
+@media screen and (max-width: 1360px){
+	.ver2 .tp-bullets.simplebullets.round{
+		display: none;
+	}
+	.tp-caption {
+    top: 10% !important;
+}
+}
+@media screen and (max-width: 1199px){
+
+	.home2-head .text-slider h2 a{
+		font: 400 21px/23px "Oswald";
+	}
+
+	.header-v2 .mega-menu ul.navbar-nav li.level1{
+		    margin: 0 10px;
+	}
+	#header .header-top .logo{
+		    margin: 15px 0px;
+	}
+		.posst{
+		position: initial;
+	}
+	.home2-head .col-sm-4 .post-item.ver2 .text h2 span {
+    color: #333;
+}
+.col-md-8 .banner-home1-v2 .thu .col-md-8{
+	left: 0!important;
+}
+.banner-home1 .tp-simpleresponsive .comment_slider{
+	top: 60.5%;
+}
+	.tp-banner-container .tp-caption span img{
+		width: 35px!important;
+		padding-left: 10px;
+		height: 25px!important;
+	}
+	.mega-menu ul.navbar-nav li.level1{
+		margin: 0px 18px;
+	}
+	.banner-home1{
+
+		 .tp-caption {
+    top: 20% !important;
+    left: 10%!important;
+     a.title{
+    	padding-bottom: 25px;
+    	    white-space: initial;
+    }
+}
+.ver1 .tp-bullets.hidebullets, .ver1 .tp-bullets{
+	display: none!important;
+}
+
+.tp-simpleresponsive .comment_slider{
+	    top: 56.5% !important;
+	    .tag .lable{
+	    	padding-bottom: 30px;
+	    }
+}
+}
+	.posst{
+		.container{
+			width: 100%;
+		}
+	}
+
+
+.post-item.ver2.most .text h2 a{
+	line-height: 26px;
+}
+.banner-home3-v1 .text{
+	padding: 20px 0;
+}
+}
